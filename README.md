@@ -6,17 +6,17 @@
 
 ## Requirements
 
-1. Team Members: `<Who's working on this app?>`
-2. App Name: `<What's the app name?>`
+1. Team Members: `David Williams & Alfredo Colon`
+2. App Name: `BingeWatchingTracker`
 3. App Description (3-5 sentences):
 
-    `<Explain your app to your Grandma (or a 5-year old child)>`
+`The app allows you to track your binge watching for a select amount of mostly comic book related shows. `
     
 4. Your #1 Customer (Who would use your app? Why now?)
  
-    `<Be specific and focus on a real person>`
+ `This is mostly a learning project, used to reinforce the coursework we've learned thus far. Should a person like to use it, it would probably be a person who enjoys cracking open a good comic book (mostly through Marvel Unlimited) and wants to use their free time to dive deep into the silver screen waters of comic book television.`
     
-5. Github code repository: `<Create a Github Project>`
+5. Github code repository: `https://github.com/alfcolon/BingeWatchingTracker`
 6. Github Project/Trello Board: `<Post your link to your Kanban board>`
 7. Create a Slack DM Group with your partner, TL, and Instructor and say "hi!"
 
